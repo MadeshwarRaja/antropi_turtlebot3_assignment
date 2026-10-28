@@ -1,0 +1,12 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+antropi_turtlebot3_assignment/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
